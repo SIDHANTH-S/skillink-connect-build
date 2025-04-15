@@ -19,8 +19,8 @@ const Splash = () => {
       <div className="relative">
         <div className="absolute inset-0 bg-blue-500 opacity-10 animate-pulse rounded-full"></div>
         <div className="relative z-10 flex items-center justify-center">
-          <span className="text-primary-600 text-5xl font-bold">Skillink</span>
-          <span className="text-orange-500 text-5xl font-bold">24/7</span>
+          <span className="text-[#0A2C4B] text-5xl font-bold">Skillink</span>
+          <span className="text-[#F97316] text-5xl font-bold ml-2">24/7</span>
         </div>
       </div>
       <p className="text-gray-500 mt-4">Civil Engineering & Construction Services</p>
